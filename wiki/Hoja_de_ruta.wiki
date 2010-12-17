@@ -17,7 +17,7 @@ Primer liberación
 
 ==v0.3==
 
-  * Soporte para comentarios en las páginas - http://code.google.com/p/yupp-portal/issues/detail?id=16 (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=16 Soporte para comentarios en las páginas (HECHO)
   * http://code.google.com/p/yupp-portal/issues/detail?id=24 Falta inclusión de clase en Bootstrap (HECHO)
   * http://code.google.com/p/yupp-portal/issues/detail?id=27 Problema al volver del registro de un nuevo usuario (HECHO)
   * http://code.google.com/p/yupp-portal/issues/detail?id=21 Muestra mal el paginador en el listado de usuarios pendientes (HECHO)
