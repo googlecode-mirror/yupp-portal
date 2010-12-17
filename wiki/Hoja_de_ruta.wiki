@@ -18,15 +18,15 @@ Primer liberación
 ==v0.3==
 
   * Soporte para comentarios en las páginas - http://code.google.com/p/yupp-portal/issues/detail?id=16 (HECHO)
-  * http://code.google.com/p/yupp-portal/issues/detail?id=24 (HECHO)
-  * http://code.google.com/p/yupp-portal/issues/detail?id=27 (HECHO)
-  * http://code.google.com/p/yupp-portal/issues/detail?id=21 (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=24 Falta inclusión de clase en Bootstrap (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=27 Problema al volver del registro de un nuevo usuario (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=21 Muestra mal el paginador en el listado de usuarios pendientes (HECHO)
 
 ==v0.4==
 
-  * http://code.google.com/p/yupp-portal/issues/detail?id=9 (HECHO)
-  * http://code.google.com/p/yupp-portal/issues/detail?id=4
-  * Implementar paginas basicas en disco - http://code.google.com/p/yupp-portal/issues/detail?id=23
+  * http://code.google.com/p/yupp-portal/issues/detail?id=9 Mejorar el editor de contenido (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=4 Mejorar las vistas de administración (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=23 Implementar paginas basicas en disco
 
 ==v0.5==
 
