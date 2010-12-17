@@ -24,7 +24,7 @@ Primer liberación
 
 ==v0.4==
 
-  * http://code.google.com/p/yupp-portal/issues/detail?id=9
+  * http://code.google.com/p/yupp-portal/issues/detail?id=9 (HECHO)
   * http://code.google.com/p/yupp-portal/issues/detail?id=4
   * Implementar paginas basicas en disco - http://code.google.com/p/yupp-portal/issues/detail?id=23
 
