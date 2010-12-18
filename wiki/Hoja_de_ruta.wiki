@@ -1,11 +1,13 @@
 #summary Hoja de ruta del proyecto
+#labels Featured
 
-=¡Liberamos Yupp Portal v0.3!==
+=¡Liberamos Yupp Portal v0.3!=
 
 http://code.google.com/p/yupp-portal/downloads/list
 
 
 ==v0.1==
+
 Primer liberación
 
 ==v0.2==
