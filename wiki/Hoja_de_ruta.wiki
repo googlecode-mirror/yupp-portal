@@ -36,7 +36,8 @@ Primer liberación
 
   * http://code.google.com/p/yupp-portal/issues/detail?id=11
   * http://code.google.com/p/yupp-portal/issues/detail?id=12
-  * http://code.google.com/p/yupp-portal/issues/detail?id=13
+  * http://code.google.com/p/yupp-portal/issues/detail?id=13 (Mejorar seguridad encriptando claves)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=35 (Tabla de contenidos)
 
 ==v0.6==
 
