@@ -30,7 +30,7 @@ Primer liberación
   * http://code.google.com/p/yupp-portal/issues/detail?id=4 Mejorar las vistas de administración (HECHO)
   * http://code.google.com/p/yupp-portal/issues/detail?id=23 Implementar paginas basicas en disco
   * http://code.google.com/p/yupp-portal/issues/detail?id=30 Si se corre el portal sin ejecutar el bootstrap da error de redirect
-  * http://code.google.com/p/yupp-portal/issues/detail?id=32 Agregar un titulo a los comentarios
+  * http://code.google.com/p/yupp-portal/issues/detail?id=32 Agregar un titulo a los comentarios (HECHO)
 
 ==v0.5==
 
