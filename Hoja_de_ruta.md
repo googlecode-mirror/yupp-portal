@@ -1,0 +1,68 @@
+# ¡Liberamos Yupp Portal v0.3! #
+
+http://code.google.com/p/yupp-portal/downloads/list
+
+
+## v0.1 ##
+
+Primer liberación
+
+## v0.2 ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=19 (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=2 (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=3 (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=10 (HECHO)
+
+## v0.3 ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=16 Soporte para comentarios en las páginas (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=24 Falta inclusión de clase en Bootstrap (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=27 Problema al volver del registro de un nuevo usuario (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=21 Muestra mal el paginador en el listado de usuarios pendientes (HECHO)
+
+## v0.4 ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=9 Mejorar el editor de contenido (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=4 Mejorar las vistas de administración (HECHO)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=23 Implementar paginas basicas en disco
+  * http://code.google.com/p/yupp-portal/issues/detail?id=30 Si se corre el portal sin ejecutar el bootstrap da error de redirect
+  * http://code.google.com/p/yupp-portal/issues/detail?id=32 Agregar un titulo a los comentarios (HECHO)
+
+## v0.5 ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=11
+  * http://code.google.com/p/yupp-portal/issues/detail?id=12
+  * http://code.google.com/p/yupp-portal/issues/detail?id=13 (Mejorar seguridad encriptando claves)
+  * http://code.google.com/p/yupp-portal/issues/detail?id=35 (Tabla de contenidos)
+
+## v0.6 ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=17
+  * http://code.google.com/p/yupp-portal/issues/detail?id=1
+  * http://code.google.com/p/yupp-portal/issues/detail?id=14
+
+## v0.7 ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=22
+  * http://code.google.com/p/yupp-portal/issues/detail?id=20
+  * http://code.google.com/p/yupp-portal/issues/detail?id=18
+
+## v0.8 ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=6
+  * Envío de correos de administradores a usuarios, filtrados por rol. http://code.google.com/p/yupp-portal/issues/detail?id=25
+
+## v0.9 ##
+
+  * Exponer servicio RSS con últimas actualizaciones del portal. http://code.google.com/p/yupp-portal/issues/detail?id=26
+
+## v1.0 ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=5
+
+## Opcionales o post v1.0: ##
+
+  * http://code.google.com/p/yupp-portal/issues/detail?id=7
+  * http://code.google.com/p/yupp-portal/issues/detail?id=8
+  * http://code.google.com/p/yupp-portal/issues/detail?id=15
